@@ -1,0 +1,155 @@
+#title {
+    
+    position: fixed;
+    font-size: 240pt;
+    top: 155px;
+    left: 130px;
+    text-align: center;
+    font-family: serif;
+    font-weight: 600;
+    letter-spacing: -9px;
+}
+
+div{
+    font-family: monospace;
+    font-size: 12pt;
+
+}
+
+#author{
+    position:absolute;
+    top: 210px;
+    left: 140px;
+    
+}
+
+#mani{
+    position:absolute;
+    top: 250px;
+    left: 140px;
+
+    
+}
+
+#h {
+    position: absolute;
+    top: 280px;
+    left: 230px;
+    font-size: 12pt;
+    letter-spacing: 2px;
+    
+}
+
+#po {
+    position:absolute;
+    top: 360px;
+    left:230px;
+}
+
+#try {
+    position: absolute;
+    top: 400px;
+    left: 360px;
+    text-align: center;
+}
+
+#stop {
+    position: absolute;
+    top: 315px;
+    left: 395px;
+    color: white;
+    
+}
+
+#anthroblack {
+    position: absolute;
+    top: 350px;
+    left: 450px;
+    
+}
+
+#anthrowhite {
+    position: absolute;
+    top: 350px;
+    left: 480px;
+    color: white;
+    
+}
+
+#mwhite {
+    position: absolute;
+    top: 350px;
+    left: 660px;
+    color: white;
+}
+
+#mpoblack {
+    position: absolute;
+    top: 390px;
+    left: 621px;    
+}
+
+#mpowhite {
+    position: absolute;
+    top: 390px;
+    left: 650px;   
+    color: white;
+}
+
+
+#abe{
+    
+    position: absolute;
+    top: 335px;
+    left: 825px;   
+    color: white;
+
+    
+}
+#apo {
+    position: absolute;
+    top: 390px;
+    left: 900px;   
+    color: white;
+}
+
+#nstop {
+    position: absolute;
+    top: 425px;
+    left: 975px;
+    color: white
+}
+
+#nanthroblack {
+    position: absolute;
+    top: 330px;
+    left:1028px;
+    
+}
+#nanthrowhite {
+    position: absolute;
+    top: 330px;
+    left:1055px;
+    color: white;
+    
+}
+
+#swhite {
+    position: absolute;
+    top: 225px;
+    left: 1115px;
+    color: white;
+
+}
+
+#last {
+    
+    position: absolute;
+    top: 460px;
+    left: 990px;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 18pt;
+    letter-spacing: 1px;
+    
+}

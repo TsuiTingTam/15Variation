@@ -1,0 +1,76 @@
+#title {
+    
+    position: absolute;
+    left: 650px;
+    width: 15%;
+    padding: 100px 100px 150px 100px;
+    border: 1px solid black;
+    margin-top: 150px;
+    
+    
+}
+
+#positive {
+    
+    position: absolute;
+    right: 200px;
+    width: 10%;
+    border: 1px solid black;
+    margin-top: 80px;
+    padding: 50px 10px 20px 50px;
+    
+}
+
+#try {
+    
+    position: absolute;
+    left: 200px;
+    width: 18%;
+    border: 1px solid black;
+    margin: 120px;
+    padding: 80px 90px 50px 30px;
+    
+}
+
+#game {
+    
+    position: absolute;
+    left: 25%;
+    top: 630px;
+    width: 20%;
+    border: 1px solid black;
+    padding: 30px;
+    
+}
+
+#better {
+    
+    position: absolute;
+    left: 500px;
+    width: 7%;
+    border: 1px solid black;
+    top: 550px;
+    padding: 120px 20px 30px 100px;
+}
+
+#look {
+    
+    position: absolute;
+    right: 190px;
+    top: 50%;
+    width: 150px;
+    border: 1px solid black;
+    padding: 100px 30px 150px 100px;
+    margin-bottom: 100px;
+}
+
+#fix {
+    
+    position: fixed;
+    top: 850px;
+    left: 200px;
+    padding: 10px 20px 30px 30px;
+    background-color: black;
+    color: white;
+    
+}

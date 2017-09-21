@@ -1,0 +1,186 @@
+.vertical{
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    float: left;
+    margin: 50px 50px 50px 150px;
+    font-family: sans-serif;
+    font-size: 30pt;
+    position: fixed;
+    
+    
+}
+
+#everything {
+    
+    position: relative;
+    left: 850px;
+    top: 800px;
+    padding: 50px;
+    width: 200px;
+    border: 1px solid white;
+    color: whitesmoke;
+    font-family: monospace;
+    
+}
+
+#grad1 {
+    height: 9150px;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(darkcyan, purple, yellow, red); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(darkcyan, purple, yellow, red); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(darkcyan, purple, yellow, red); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(darkcyan, purple, yellow, red); /* Standard syntax (must be last) */
+    margin: -7000px -10px 0px -10px;
+
+}
+
+    
+}
+.verticalsmall1{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: 1500px;
+    left: 500px;
+    
+}
+
+.verticalsmall2{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: 2200px;
+    left: 500px;
+    
+}
+
+
+.verticalsmall3{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: 1600px;
+    left: 800px;
+    
+}
+
+.verticalsmall4{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: 1650px;
+    left: 720px;
+    
+}
+
+
+.verticalsmall5{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: 1280px;
+    left: 350px;
+    
+}
+
+.verticalsmall6{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: 1180px;
+    left: 400px;
+    
+}
+
+.verticalsmall7{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: 980px;
+    left: 550px;
+    
+}
+
+.verticalsmall8{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: 980px;
+    left: 950px;
+    
+}
+
+.verticalsmall9{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: 700px;
+    left: 110px;
+    
+}
+
+.verticalsmall10{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: 80px;
+    left: 150px;
+    
+}
+
+.verticalsmall11{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: 20px;
+    left: 1000px;
+    
+}
+
+.verticalsmall12{
+    position: relative;
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    font-family: monospace;
+    margin-left: 80px;
+    top: -300px;
+    left: 280px;
+    
+}
+
+.bold {
+    position: relative;
+    top: 2000px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 200px;
+    line-height: 160px;
+}
+
+a{
+    
+    color: yellow;
+}

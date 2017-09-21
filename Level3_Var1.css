@@ -1,0 +1,82 @@
+#fixtopleft{
+    
+    position: fixed;
+    left: 30px;
+    top: 20px;
+    border-bottom: 1px solid indianred;
+
+}
+
+#fixsmalltop{
+    position: fixed;
+    left: 15px;
+    top:0px;
+}
+
+#fixbottomright{
+    
+    position: fixed;
+    right:100px;
+    top: 550px;
+
+}
+
+#author{
+    
+    position: fixed;
+    right: 80px;
+    top: 580px;
+}
+
+.middleone {
+    position: absolute;
+    left: 30%;
+    top: 900px;
+    width: 350px;
+    padding: 50px;
+    border: 1px solid indianred;
+}
+
+#middletwo{
+    position: absolute;
+    left: 30%;
+    top: 2000px;
+    padding: 50px;
+    border: 1px solid indianred;
+
+}
+
+#middlethree{
+    position: absolute;
+    left: 30%;
+    top: 2900px;
+    width: 350px;
+    padding: 50px;
+    border: 1px solid indianred;
+
+}
+
+#middlelast{
+    position: absolute;
+    left: 30%;
+    top: 4000px;
+    width: 350px;
+    padding: 50px;
+    border: 1px solid indianred;
+    margin-bottom: 300px;
+
+}
+
+#last {
+    position: absolute;
+    left: 30%;
+    top: 4900px;
+    width: 350px;
+    padding: 50px;
+    border: 1px solid indianred;
+    margin-bottom: 400px;
+}
+
+a{
+    color: indianred;
+}

@@ -1,0 +1,112 @@
+.text {
+    position: fixed;
+    float: left;
+    font-family: sans-serif;
+    font-size: 180pt;
+    font-weight: bolder;
+    left: 1100px;
+    top: 400px;
+
+    
+}
+
+div{
+    
+    border-bottom: 1px solid black;
+    font-family: sans-serif;
+    margin: 0px -10px;
+    
+}
+#title{
+    
+    font-size: 40pt;
+}
+
+.black{
+    
+    background-color: black;
+    color: black;
+    font-size: 40pt;
+    padding: 10px;
+}
+
+.white{
+    
+    background-color: white;
+    color: white;
+    font-size: 40pt;
+    padding: 10px;
+}
+
+#onebe{
+    
+
+    font-size: 25pt;
+    padding: 25px  25px 10px 400px;
+}
+#onemore{
+    
+
+    font-size: 25pt;
+    padding: 25px  25px 10px 400px;
+    background-color: black;
+    color: white;
+    
+}
+#onepositive{
+    
+
+    font-size: 25pt;
+    padding: 25px  25px 10px 400px;
+}
+
+#twotry{
+    font-size: 18pt;
+    padding: 30px 200px 30px 800px;
+    text-align: right;
+    
+}
+
+#twoor{
+    font-size: 18pt;
+    padding: 30px 200px 30px 800px;
+    text-align: right;
+    background-color: black;
+    color: white;
+    
+}
+
+#three {
+    font-size: 18pt;
+    padding: 30px 200px 30px 400px;
+    text-align: ;
+    
+}
+#threeabandon {
+    font-size: 13pt;
+    padding: 38px 10px 38px 300px;
+    font-style: italic;
+    letter-spacing: 2px;
+    
+    
+}
+
+#four  {
+    font-size: 18pt;
+    padding: 30px 200px 30px 800px;
+    background-color: black;
+    color: white
+
+}
+
+.fiveblack {
+    font-size: 18pt;
+    background-color: black;
+    color: white;
+    padding: 30px 200px 30px 400px;
+}
+
+.fivewhite {
+    font-size: 15pt;
+    padding: 30px 200px 30px 400px;
+}

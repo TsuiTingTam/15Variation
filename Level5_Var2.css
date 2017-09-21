@@ -1,0 +1,66 @@
+
+@-webkit-keyframes mymove {
+    0%   {left: -300px;}
+    100% {left: 150px;}
+}
+
+#empty{
+    background: white;
+    height: 150px;
+}
+
+.top {
+    position: absolute;
+    margin: -50px -60px -60px -60px;
+    animation: mymove 5s infinite;
+    animation-direction: alternate;
+    font-family: sans-serif;
+    font-size: 20pt;
+
+}
+
+
+
+.second {
+    position: absolute;
+    margin: 130px -60px -60px 100px;
+    animation: mymove 5s infinite;
+    animation-direction: alternate-reverse;
+    font-family: sans-serif;
+    font-size: 20pt;
+  
+}
+
+p{
+    position: relative;
+    height: 100px;
+    margin: 420px 100px 50px 800px;
+    font-family: monospace;
+    font-size: 30pt;
+    text-align: right;
+}
+
+#author{
+    
+    
+}
+#color1 {
+    position: relative;
+    top: -15px;
+    background-color: #B34D8D;
+    height: 60px;
+    margin: -10px;
+}
+
+
+#color2 {
+    position: relative;
+    top: 85px;
+    background-color: lightseagreen;
+    height: 60px;
+    margin: -90px;
+}
+
+a{
+    color: lightseagreen;
+}
